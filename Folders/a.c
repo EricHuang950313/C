@@ -11,6 +11,7 @@ void main() {
    unsigned long h = 123;
    float i = 1.23;
    double j = 1.23;
+   long double k = 5.5767458458;
    printf("a: %c; %d\n", a, sizeof(a));
    printf("b: %s; %d\n", b, sizeof(b));
    printf("c: %d; %d\n", c, sizeof(c));
@@ -21,5 +22,5 @@ void main() {
    printf("h: %d; %d\n", h, sizeof(h));
    printf("i: %f; %d\n", i, sizeof(i));
    printf("j: %f; %d\n", j, sizeof(j));
-   system("PAUSE");
+   printf("%Lf", k);
 }
