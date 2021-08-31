@@ -4,9 +4,9 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceRoot}",
-                "D:\\B-Application\\minGW\\include",
-                "D:\\B-Application\\minGW\\lib\\gcc\\mingw32\\9.2.0\\include",
-                "D:\\B-Application\\minGW\\lib\\gcc\\mingw32\\9.2.0\\include\\c++"
+                "C:\\MinGW\\include",
+                "C:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include",
+                "C:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include\\c++"
             ],
             "defines": [
                 "_DEBUG",
@@ -18,9 +18,9 @@
             "browse": {
                 "path": [
                     "${workspaceRoot}",
-                    "D:\\B-Application\\minGW\\include",
-                    "D:\\B-Application\\minGW\\lib\\gcc\\mingw32\\9.2.0\\include",
-                    "D:\\B-Application\\minGW\\lib\\gcc\\mingw32\\9.2.0\\include\\c++"
+                    "C:\\MinGW\\include",
+                    "C:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include",
+                    "C:\\MinGW\\lib\\gcc\\mingw32\\9.2.0\\include\\c++"
                 ],
                 "limitSymbolsToIncludedHeaders": true,
                 "databaseFilename": ""
